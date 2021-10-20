@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tpolinas 
+- 👀 I’m interested in Web & iOS development
+- 🌱 I’m currently learning iOS dev
+- 📫 How to reach me t_polinas@icloud.com
