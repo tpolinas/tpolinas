@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @tpolinas 
-- 👀 I’m interested in Web & iOS development
-- 🌱 I’m currently learning iOS dev
-- 📫 How to reach me t_polinas@icloud.com
+     -  ✦ Hi, I’m Polina Tikhomirova! 🖐 (@tpolinas) ✦ 
+     -  ✧ I have experience in adaptive website dev ✧
+     -  ★ I'm currently learning iOS development 🔨📱 ★
+     -  ⭐︎ I love rock music 🎸 & I'm a big Rush fan 🤘 ⭐︎
+     -  ✶ 📩 Feel free to drop me a line at t_polinas@icloud.com ✶ 
+     -  ❀ Also you can reach me in [Telegram](t.me/t_polinas) ❀
