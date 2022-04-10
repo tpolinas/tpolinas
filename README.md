@@ -3,4 +3,4 @@
      -  ★ I'm currently learning iOS development 🔨📱 ★
      -  ⭐︎ I love rock music 🎸 & I'm a big Rush fan 🤘 ⭐︎
      -  ✶ 📩 Feel free to drop me a line at t_polinas@icloud.com ✶ 
-     -  ❀ Also you can reach me in [Telegram](t.me/t_polinas) ❀
+   ➤ also you can reach me in [Telegram](t.me/t_polinas) 
