@@ -15,6 +15,20 @@
 |       Foundation  |   <ul><li>- [x] </li></ul>  |       |
 | Swift Package Manager | <ul><li>- [x] </li></ul> |       | 
 | CocoaPods          | <ul><li>- [x] </li></ul>    |       |
+| URLSession         | <ul><li>- [x] </li></ul>    |       | 
+| Alamofire          | <ul><li>- [x] </li></ul>    |       | 
+| CoreData           |           | <ul><li>- [x] </li></ul> |
+| Realm              | <ul><li>- [x] </li></ul>    |       |
+| Firebase           |           | <ul><li>- [x] </li></ul> |
+| Firebase Database  |           | <ul><li>- [x] </li></ul> |
+| UserDefaults       | <ul><li>- [x] </li></ul> |           |
+| FileManager        |                | <ul><li>- [x] </li></ul> |
+| Keychain           |                | <ul><li>- [x] </li></ul> |
+| Programmatic UI    | <ul><li>- [x] </li></ul> |           |
+| Storyboard         | <ul><li>- [x] </li></ul> |           |
+| Xib                | <ul><li>- [x] </li></ul> |          |
+| Autolayout         | <ul><li>- [x] </li></ul> |          |
+| SnapKit            |            | <ul><li>- [x] </li></ul> |
 | Unit Tests         | <ul><li>- [x] </li></ul>    |       |
 | UI Tests           |            | <ul><li>- [x] </li></ul> |
 
